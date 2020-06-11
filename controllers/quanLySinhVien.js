@@ -134,3 +134,4 @@ document.getElementById('btnThemSinhVien').onclick = function () {
 
     })
 }
+console.log("HHHHH");
