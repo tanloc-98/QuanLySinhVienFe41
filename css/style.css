@@ -1,8 +1,9 @@
 body{
     background-color: aquamarine;
-<<<<<<< HEAD
     font-size: 20px;
-=======
     color: red;
->>>>>>> 26eedef232a43558b7c05ef3b3fe0c6d1e13ea49
+}
+h1{
+    font-style: 50px;
+    color: red;
 }
